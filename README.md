@@ -6,19 +6,12 @@ A collection of all my programming projects and solutions from online courses, s
 
 ### Scientific Computing with Python Course
 
-**[Certification](https://www.freecodecamp.org/certification/rodrigosapedroso/scientific-computing-with-python-v7)**  
+**[Certification](https://www.freecodecamp.org/certification/rodrigosapedroso/scientific-computing-with-python-v7)** - freeCodeCamp course completed by working on algorithmic challenges and small projects, with focus on Python fundamentals such as functions, loops, conditionals and basic algorithms.
 
-* **1. Arithmetic Formatter**
-    * A program that arranges and solves arithmetic problems vertically, aligning numbers and operators for readability and accuracy, similar to how one might do it by hand.
+## Projects in Progress
 
-* **2. Time Calculator**
-    * A program designed to add a specific duration to a given start time. It handles various scenarios, including crossing midnight, calculating the number of days later, and displaying the day of the week for the new time.
+### JavaScript Algorithms and Data Structures
 
-* **3. Budget App**
-    * A program that helps manage personal finances by creating budget categories, tracking deposits and withdrawals, transferring funds between categories, and visualizing spending with a text-based bar chart showing percentages spent per category.
+freeCodeCamp certification in progress, working on algorithmic challenges and small projects covering HTML and CSS fundamentals and core JavaScript concepts including DOM Manipulation.
 
-* **4. Polygon Area Calculator**
-    * A program that defines Rectangle and Square classes, allowing calculation of area, perimeter, diagonal, and visual representation. It also includes methods to adjust dimensions, compare sizes, and determine how many times one shape can fit inside another.
 
-* **5. Probability Calculator**    
-    * This project lets you create a hat with colored balls and draw a number of balls at random using the Hat class. The experiment function then estimates the chance of getting a specific combination by running multiple experiments. 
