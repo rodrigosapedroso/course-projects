@@ -8,10 +8,7 @@ A collection of all my programming projects and solutions from online courses, s
 
 **[Certification](https://www.freecodecamp.org/certification/rodrigosapedroso/scientific-computing-with-python-v7)** - freeCodeCamp course completed by working on algorithmic challenges and small projects, with focus on Python fundamentals such as functions, loops, conditionals and basic algorithms.
 
-## Projects in Progress
-
 ### JavaScript Algorithms and Data Structures
 
-freeCodeCamp certification in progress, working on algorithmic challenges and small projects covering HTML and CSS fundamentals and core JavaScript concepts including DOM Manipulation.
-
+**[Certification](https://freecodecamp.org/certification/rodrigosapedroso/javascript-algorithms-and-data-structures-v8)** - freeCodeCamp course focused on JavaScript fundamentals, including DOM manipulation, arrays, objects, loops, functions, recursion, algorithms, and asynchronous programming with async/await and fetch for API calls.
 
